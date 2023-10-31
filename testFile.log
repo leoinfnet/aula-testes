@@ -1,0 +1,72 @@
+332  [main] ERROR br.com.infnet.App - Usuario Invalido
+502  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+506  [main] DEBUG br.com.infnet.App - Entrei no if qq
+507  [main] ERROR br.com.infnet.App - Usuario Invalido
+507  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+476  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+488  [main] DEBUG br.com.infnet.App - Entrei no if qq
+489  [main] ERROR br.com.infnet.App - Usuario Invalido
+489  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+461  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+469  [main] DEBUG br.com.infnet.App - Entrei no if qq
+469  [main] ERROR br.com.infnet.App - Usuario Invalido
+471  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+514  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+521  [main] DEBUG br.com.infnet.App - Entrei no if qq
+522  [main] ERROR br.com.infnet.App - Usuario Invalido
+522  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+623  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+634  [main] DEBUG br.com.infnet.App - Entrei no if qq
+635  [main] ERROR br.com.infnet.App - Usuario Invalido
+635  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+576  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+583  [main] DEBUG br.com.infnet.App - Entrei no if qq
+583  [main] ERROR br.com.infnet.App - Usuario Invalido
+584  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+606  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+621  [main] DEBUG br.com.infnet.App - Entrei no if qq
+621  [main] ERROR br.com.infnet.App - Usuario Invalido
+622  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+429  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+436  [main] DEBUG br.com.infnet.App - Entrei no if qq
+437  [main] ERROR br.com.infnet.App - Usuario Invalido = lgloria
+437  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+444  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+455  [main] DEBUG br.com.infnet.App - Entrei no if qq
+455  [main] ERROR br.com.infnet.App - Usuario Invalido = lgloria
+456  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+638  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+648  [main] DEBUG br.com.infnet.App - Entrei no if qq
+648  [main] ERROR br.com.infnet.App - Usuario Invalido = lgloria
+649  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+476  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+482  [main] DEBUG br.com.infnet.App - Entrei no if qq
+482  [main] ERROR br.com.infnet.App - Usuario Invalido = lgloria
+483  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+444  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+452  [main] DEBUG br.com.infnet.App - Entrei no if qq
+453  [main] ERROR br.com.infnet.App - Usuario Invalido = lgloria
+453  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+433  [main] DEBUG br.com.infnet.App - Estou iniciando o metodo main
+441  [main] DEBUG br.com.infnet.App - Entrei no if qq
+441  [main] ERROR br.com.infnet.App - Usuario Invalido = lgloria
+441  [main] DEBUG br.com.infnet.App - Estou finalizando  o metodo main
+398  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no inicio de Todos
+375  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no inicio de Todos
+521  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no final de Todos
+378  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no inicio de Todos
+396  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando teste 1
+476  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no final de Todos
+416  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no inicio de Todos
+439  [main] INFO  br.com.infnet.IniciativaUtilTests - Criando arquivo texto
+444  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando teste 1
+454  [main] INFO  br.com.infnet.IniciativaUtilTests - Deletando arquivo texto
+470  [main] INFO  br.com.infnet.IniciativaUtilTests - Criando arquivo texto
+471  [main] INFO  br.com.infnet.IniciativaUtilTests - Deletando arquivo texto
+474  [main] INFO  br.com.infnet.IniciativaUtilTests - Criando arquivo texto
+475  [main] INFO  br.com.infnet.IniciativaUtilTests - Deletando arquivo texto
+480  [main] INFO  br.com.infnet.IniciativaUtilTests - Criando arquivo texto
+500  [main] INFO  br.com.infnet.IniciativaUtilTests - Deletando arquivo texto
+503  [main] INFO  br.com.infnet.IniciativaUtilTests - Criando arquivo texto
+511  [main] INFO  br.com.infnet.IniciativaUtilTests - Deletando arquivo texto
+529  [main] INFO  br.com.infnet.IniciativaUtilTests - Rodando no final de Todos
